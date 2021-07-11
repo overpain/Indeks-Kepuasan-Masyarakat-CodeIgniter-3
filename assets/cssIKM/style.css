@@ -1,0 +1,250 @@
+@media only screen and (max-width: 600px) {
+	.text-res h1 {
+		font-size: 20px !important;
+		margin-top: 0px !important;
+	}
+	.text-res h5 {
+		font-size: 16px;
+	}
+	.img-fluid {
+		width: 100px;
+	}
+	.img-emot {
+		width: 10px;
+	}
+	.col_imgs {
+		padding: 10px;
+	}
+	.box_btn {
+		padding: 15px;
+	}
+	.box_container {
+		padding: 0px 30px;
+	}
+	.narkobagambar {
+		margin-top: 10px;
+	}
+	.box1 {
+		padding-top: 20px !important;
+	}
+}
+
+/* tab lanscape */
+@media only screen and (max-width: 1024px) {
+	.text-res h1 {
+		font-size: 40px !important;
+		margin-top: 0px !important;
+	}
+	.narkobagambar {
+		margin-top: 10px;
+	}
+	.polda {
+		width: 100px !important;
+		margin-top: 5px;
+	}
+	.box_btn {
+		margin-bottom: 10px !important;
+	}
+	.box1 {
+		padding-top: 20px !important;
+	}
+}
+
+/* iphonex landscape */
+@media only screen and (max-width: 812px) {
+	.kotak {
+		height: 160px !important;
+	}
+	.box {
+		padding-top: 0px !important;
+	}
+	.text-res h1 {
+		font-size: 30px !important;
+		margin-top: 0px !important;
+	}
+	.text-res h5 {
+		font-size: 18px !important;
+	}
+	.narkobagambar {
+		width: 135px !important;
+		margin-top: 5px;
+	}
+	.btn_text_ {
+		width: 100% !important;
+		max-width: 100% !important;
+		flex: 0 0 100%;
+		text-align: center;
+	}
+	.btn_img_ {
+		width: 100% !important;
+		max-width: 100% !important;
+		flex: 0 0 100%;
+		text-align: center;
+	}
+	.box1 {
+		padding-top: 20px !important;
+	}
+}
+
+/* tampilan ipad */
+@media only screen and (max-width: 768px) {
+	.kotak {
+		height: 160px !important;
+	}
+	.box {
+		padding-top: 0px !important;
+	}
+	.text-res h1 {
+		font-size: 30px;
+		margin-top: 0px;
+	}
+	.img-fluid {
+		width: 100px;
+	}
+	.img-emot {
+		width: 10px;
+	}
+	.btn_text_ {
+		width: 100% !important;
+		max-width: 100% !important;
+		flex: 0 0 100%;
+		text-align: center;
+	}
+	.btn_img_ {
+		width: 100% !important;
+		max-width: 100% !important;
+		flex: 0 0 100%;
+		text-align: center;
+	}
+	.text-res h5 {
+		font-size: 19px !important;
+	}
+	.narkobagambar {
+		margin-top: 10px;
+		width: 130px;
+	}
+	.polda {
+		width: 100px !important;
+		margin-top: 5px;
+	}
+	.box1 {
+		padding-top: 20px !important;
+	}
+}
+
+/* mobile landscape */
+@media only screen and (max-width: 740px) {
+	.kotak {
+		height: 160px !important;
+	}
+	.box {
+		padding-top: 0px !important;
+	}
+	.box_btn {
+		margin-bottom: 10px !important;
+	}
+	.box_container {
+		padding: 0px 120px !important;
+	}
+	.text-res h1 {
+		font-size: 25px !important;
+		margin-top: 0px !important;
+	}
+	.narkobagambar {
+		margin-top: 10px;
+		width: 200px;
+	}
+	.polda {
+		width: 90px !important;
+		margin-top: 0px;
+	}
+	.box_btn {
+		padding: 7px;
+	}
+	.box1 {
+		padding-top: 20px !important;
+	}
+}
+
+/* iphone versi lama */
+@media only screen and (max-width: 414px) {
+	.kotak {
+		height: 160px !important;
+	}
+	.box {
+		padding-top: 0px !important;
+	}
+	.narkobagambar {
+		margin-top: 5px;
+		width: 200px !important;
+	}
+	.polda {
+		width: 70px !important;
+		margin-top: 0px;
+	}
+	.text-res h1 {
+		font-size: 19px !important;
+		margin-top: 7px !important;
+	}
+	.box_btn {
+		padding: 5px;
+	}
+	.box_container {
+		padding: 0px 60px !important;
+	}
+	.box1 {
+		padding-top: 20px !important;
+	}
+}
+/* android dan iphone 2020 */
+@media only screen and (max-width: 375px) {
+	.kotak {
+		height: 160px !important;
+	}
+	.box {
+		padding-top: 0px !important;
+	}
+	.narkobagambar {
+		margin-top: 10px;
+		width: 1000px !important;
+	}
+	.polda {
+		width: 60px !important;
+		margin-top: 5px;
+	}
+	.text-res h1 {
+		font-size: 19px !important;
+		margin-top: 0px;
+	}
+	.box_container {
+		padding: 0px 45px !important;
+	}
+	.box1 {
+		padding-top: 20px !important;
+	}
+}
+
+/* tampilan dekstop */
+.jumbotron jumbotron-fluid bg-danger text-white {
+	height: 290px;
+	padding: 30px;
+}
+.display-7 {
+	margin-top: 40px;
+}
+.img-emot {
+	width: 120px !important;
+}
+.box {
+	padding: 30px 40px;
+	border-radius: 20px;
+}
+.text-res h5 {
+	font-size: 25px;
+}
+.text-res h4 {
+	font-size: 1000px;
+}
+.kotak1 {
+	height: 150px;
+}
